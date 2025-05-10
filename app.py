@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 
 
-st.title("Hello from OpenShift!")
+st.title("Hello from Unix Red Hat OpenShift Container Platform!")
 st.write("This is a Streamlit app using S2I.")
 
 
