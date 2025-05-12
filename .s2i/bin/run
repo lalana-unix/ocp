@@ -1,2 +1,2 @@
-#APP_PORT=${APP_PORT:-"8501"}
+# Run streamlit app
 streamlit run --server.port ${APP_PORT} app.py

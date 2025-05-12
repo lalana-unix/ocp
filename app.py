@@ -9,10 +9,6 @@ st.markdown(
     "<h2 style='text-align: center;'>Streamlit app using S2I</h2>",
     unsafe_allow_html=True)
 
-# Load and display image
-#image = Image.open("media/ocp.jpg")
-#st.image(image, caption="Genereat picture from AI", use_container_width=True)
-
 
 col1, col2, col3 = st.columns([1, 2, 1])
 with col2:
