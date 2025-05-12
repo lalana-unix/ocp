@@ -14,7 +14,7 @@ st.markdown(
 #st.image(image, caption="Genereat picture from AI", use_container_width=True)
 
 st.write("This is a simple Streamlit app that demonstrates the use of S2I (Source-to-Image) to build and deploy a containerized application on OpenShift.")
-#st.image("media/penguin-dance.gif")
+#st.image("media/happy-feet-penguins.gif")
 col1, col2, col3 = st.columns([1, 2, 1])
 with col2:
     st.image("media/penguin-dance.gif", use_container_width=True)
