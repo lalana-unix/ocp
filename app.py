@@ -12,8 +12,8 @@ st.markdown(
 col1, col2, col3 = st.columns([1, 2, 1])
 with col2:
     #st.image("media/happy-feet-penguins.gif", use_container_width=True)
-    st.image("media/penguin-dance.gif", use_container_width=True)
-    st.text("When Michael & Lalana dance")
+    #st.image("media/penguin-dance.gif", use_container_width=True)
+    #st.text("When Michael & Lalana dance")
     st.image("media/ocp.jpg", use_container_width=True)
     
     
