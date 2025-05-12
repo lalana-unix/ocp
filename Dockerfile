@@ -16,4 +16,4 @@ ENV PORT=8501
 EXPOSE 8501
 
 # Run Streamlit with env-port support
-CMD streamlit run app.py --server.port $PORT --server.enableCORS false --server.headless true
+CMD streamlit run appdocker.py --server.port $PORT --server.enableCORS false --server.headless true
