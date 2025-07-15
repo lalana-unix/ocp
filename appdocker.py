@@ -6,7 +6,7 @@ import time
 # Set the page configuration
 
 st.markdown(
-    "<h2 style='text-align: center;'>Streamlit app using Dockerfile</h2>",
+    "<h2 style='text-align: center;'>My Streamlit app using Dockerfile</h2>",
     unsafe_allow_html=True)
 
 
