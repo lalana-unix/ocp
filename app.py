@@ -5,7 +5,7 @@ from PIL import Image
 # Set the page configuration
 
 st.markdown(
-    "<h2 style='text-align: center;'>Streamlit app using S2I</h2>",
+    "<h2 style='text-align: center;'>Hello Streamlit app using S2I</h2>",
     unsafe_allow_html=True)
 
 
